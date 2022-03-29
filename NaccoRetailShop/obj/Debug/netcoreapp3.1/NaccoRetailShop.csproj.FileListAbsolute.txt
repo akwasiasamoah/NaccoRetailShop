@@ -1,0 +1,13 @@
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\bin\Debug\netcoreapp3.1\NaccoRetailShop.exe
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\bin\Debug\netcoreapp3.1\NaccoRetailShop.deps.json
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\bin\Debug\netcoreapp3.1\NaccoRetailShop.runtimeconfig.json
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\bin\Debug\netcoreapp3.1\NaccoRetailShop.runtimeconfig.dev.json
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\bin\Debug\netcoreapp3.1\NaccoRetailShop.dll
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\bin\Debug\netcoreapp3.1\NaccoRetailShop.pdb
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\obj\Debug\netcoreapp3.1\NaccoRetailShop.AssemblyInfoInputs.cache
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\obj\Debug\netcoreapp3.1\NaccoRetailShop.AssemblyInfo.cs
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\obj\Debug\netcoreapp3.1\NaccoRetailShop.csproj.CoreCompileInputs.cache
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\obj\Debug\netcoreapp3.1\NaccoRetailShop.dll
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\obj\Debug\netcoreapp3.1\NaccoRetailShop.pdb
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\obj\Debug\netcoreapp3.1\NaccoRetailShop.genruntimeconfig.cache
+C:\Users\asamoah\source\repos\NaccoRetailShop\NaccoRetailShop\obj\Debug\netcoreapp3.1\NaccoRetailShop.csproj.AssemblyReference.cache
